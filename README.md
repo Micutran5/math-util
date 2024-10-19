@@ -1,3 +1,5 @@
+[![Micu CI](https://github.com/Micutran5/math-util/actions/workflows/ci-script.yml/badge.svg)](https://github.com/Micutran5/math-util/actions/workflows/ci-script.yml)
+
 # Welcome to Math Utility (Maven project)
 
 ## Welcome to Math Utility project
